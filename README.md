@@ -20,6 +20,6 @@ La vulnerabilità sismica rappresenta una misura della maggiore o minore capacit
 
 - [**Mappa del pendolarismo da e per Palermo – Istat 2011**](http://gbvitrano.github.io/mappe2-3d/pendolarismo/);
 
-- [**Esplorare Palermo - Cartografica storica**](http://gbvitrano.github.io/mappe2-3d/carto_storica) e [**Cartografica storica con switch per cambio base mappa**](http://gbvitrano.github.io/mappe2-3d/carto_storica/index_02.html) con [@aborruso](https://twitter.com/aborruso), [@piersoft](https://twitter.com/Piersoft), [@cirospat](https://twitter.com/cirospat), [@napo](https://twitter.com/napo);
+- [**Esplorare Palermo - Cartografica storica**](http://gbvitrano.github.io/mappe2-3d/carto_storica) e [**Cartografica storica con switch per cambio base mappa**](http://gbvitrano.github.io/mappe2-3d/carto_storica/carto_switch.html) con [@aborruso](https://twitter.com/aborruso), [@piersoft](https://twitter.com/Piersoft), [@cirospat](https://twitter.com/cirospat), [@napo](https://twitter.com/napo);
 
 - [**Palermo 2025 - Plamimetria schema di massima del PRG**](http://gbvitrano.github.io/mappe2-3d/prg_2025/prg_2015.html) con [@cirospat](https://twitter.com/cirospat);
