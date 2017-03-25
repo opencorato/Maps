@@ -1,7 +1,4 @@
-# Mappe 3D e 2D realizzate con Qgis su Palermo
-
-
-
+# Mappe 3D e 2D Palermo
 
 
 **Indice**
