@@ -23,6 +23,6 @@ La vulnerabilità sismica rappresenta una misura della maggiore o minore capacit
 
 [**Esplorare Palermo - Cartografica storica**](https://gbvitrano.github.io/mappe2-3d/carto_storica)
 
-[**Esplorare Palermo - Cartografica storica**](https://gbvitrano.github.io/mappe2-3d/carto_storica/index_02.html) switch base mappa
+[**Esplorare Palermo - Cartografica storica**](https://gbvitrano.github.io/mappe2-3d/carto_storica/index_02.html) con switch per cambio base mappa
 
 [**Palermo 2025 - Plamimetria schema di massima del PR**](https://gbvitrano.github.io/mappe2-3d/prg_2025/prg_2015.html)
