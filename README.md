@@ -1,4 +1,4 @@
-<img width="600" src="http://coseerobe.gbvitrano.it/wp/wp-content/uploads/2016/11/header_1380_e.jpg" Title="coseerobe.gbvitrano.it" alt="coseerobe" />
+<img width="800" src="http://coseerobe.gbvitrano.it/wp/wp-content/uploads/2016/11/header_1380_e.jpg" Title="coseerobe.gbvitrano.it" alt="coseerobe" />
 
 
 # Palermo - Mappe 3D e 2D
