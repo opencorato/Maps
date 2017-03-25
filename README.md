@@ -11,3 +11,6 @@
 [**Modello digitale del terreno e unità volumetriche**](https://gbvitrano.github.io/mappe2-3d/dem_volumetrie_pa)
 
 [**Unità volumetriche con Qgis Feature 2.5D Renderer**](https://gbvitrano.github.io/mappe2-3d/cs_pa_3d/)
+
+[**Esercizio - Vulnerabilità sismica degli edifici residenziali di Palermo**](https://gbvitrano.github.io/mappe2-3d/vuln-sismica-pa) È una mappatura di base della vulnerabilità sismica degli edifici residenziali di due aree campione della città.
+La vulnerabilità sismica rappresenta una misura della maggiore o minore capacità degli edifici di resistere ad azioni sismiche (terremoti di prefissata entità)
