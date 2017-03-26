@@ -14,6 +14,9 @@ Zonizzazione e vincoli sul territorio adeguati ai D. Dir 558 e 124/DRU/02 di app
 <a href="http://github.gbvitrano.it/dem_palermo"><img width="1000" src="http://coseerobe.gbvitrano.it/wp/wp-content/uploads/2017/03/mappa_dem_palermo.jpg" Title="Modello digitale del terreno" alt="Modello digitale del terreno" /></a>
 
 - [**Modello digitale del terreno**](http://github.gbvitrano.it/dem_palermo);
+
+<a href="http://github.gbvitrano.it/dem_palermo"><img width="1000" src="http://coseerobe.gbvitrano.it/wp/wp-content/uploads/2017/03/mappa_dem_volumetrie_pa.jpg" Title="Modello digitale del terreno e unità volumetriche" alt="Modello digitale del terreno e unità volumetriche;" /></a>
+
 - [**Modello digitale del terreno e unità volumetriche**](http://github.gbvitrano.it/dem_volumetrie_pa);
 - [**Unità volumetriche con Qgis Feature 2.5D Renderer**](http://github.gbvitrano.it/cs_pa_3d/);
 
