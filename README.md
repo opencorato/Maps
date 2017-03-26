@@ -1,4 +1,3 @@
-<link rel="shortcut icon" type="image/png" href="{{http://github.gbvitrano.it/images}}/favicon.png">
 <link rel="shortcut icon" href="http://github.gbvitrano.it/images/favicon.ico" type="image/x-icon"/> 
 <link rel="icon" href="http://github.gbvitrano.it/images/favicon.png" type="image/png"/> 
 
