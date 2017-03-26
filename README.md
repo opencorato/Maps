@@ -14,6 +14,9 @@ Zonizzazione e vincoli sul territorio adeguati ai D. Dir 558 e 124/DRU/02 di app
 - [**Modello digitale del terreno e unità volumetriche**](http://github.gbvitrano.it/dem_volumetrie_pa);
 - [**Unità volumetriche con Qgis Feature 2.5D Renderer**](http://github.gbvitrano.it/cs_pa_3d/);
 - [**Esercizio - Vulnerabilità sismica degli edifici residenziali di Palermo**](http://github.gbvitrano.it/vuln-sismica-pa) con [@carbone_letizia](https://twitter.com/carbone_letizia);
+
+<a href="http://github.gbvitrano.it/vuln_sismica-pa-3d/"><img width="1000" src="http://coseerobe.gbvitrano.it/wp/wp-content/uploads/2017/03/legoland_a_1024.jpg" Title="Mappa 3D – Vulnerabilità sismica degli edifici residenziali di Palermo" alt="Mappa 3D – Vulnerabilità sismica degli edifici residenziali di Palermo" /></a>
+
 - [**Mappa 3D – Vulnerabilità sismica degli edifici residenziali di Palermo**](http://github.gbvitrano.it/vuln_sismica-pa-3d/) con [@carbone_letizia](https://twitter.com/carbone_letizia);<br>È una mappatura di base della vulnerabilità sismica degli edifici residenziali di due aree campione della città.<br>
 La vulnerabilità sismica rappresenta una misura della maggiore o minore capacità degli edifici di resistere ad azioni sismiche (terremoti di prefissata entità);
 
