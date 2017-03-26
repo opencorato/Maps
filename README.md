@@ -1,5 +1,5 @@
-<link rel="shortcut icon" href="http://coseerobe.gbvitrano.it/mappe/favicon.png" type="image/x-icon">
-<link rel="shortcut icon" href="http://coseerobe.gbvitrano.it/mappe/favicon.ico" type="image/x-icon">
+ <link rel="shortcut icon" href="http://www.gbvitrano.it/favicon.ico"/> 
+<link rel="icon" href="http://www.gbvitrano.it/favicon.png" type="image/png"/>
 
 <a href="http://coseerobe.gbvitrano.it/" target="_blank"><img width="1000" src="http://coseerobe.gbvitrano.it/wp/wp-content/uploads/2017/03/header_github.png" Title="coseerobe.gbvitrano.it" alt="coseerobe" /></a>
 
