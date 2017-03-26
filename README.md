@@ -18,6 +18,9 @@ Zonizzazione e vincoli sul territorio adeguati ai D. Dir 558 e 124/DRU/02 di app
 <a href="http://github.gbvitrano.it/dem_volumetrie_pa"><img width="1000" src="http://coseerobe.gbvitrano.it/wp/wp-content/uploads/2017/03/mappa_dem_volumetrie_pa.jpg" Title="Modello digitale del terreno e unità volumetriche" alt="Modello digitale del terreno e unità volumetriche" /></a>
 
 - [**Modello digitale del terreno e unità volumetriche**](http://github.gbvitrano.it/dem_volumetrie_pa);
+
+<a href="http://github.gbvitrano.it/cs_pa_3d/"><img width="1000" src="http://coseerobe.gbvitrano.it/mappe/images/mappa_qgis_2_5_render.jpg" Title="Unità volumetriche con Qgis Feature 2.5D Renderer" alt="Unità volumetriche con Qgis Feature 2.5D Renderer" /></a>
+
 - [**Unità volumetriche con Qgis Feature 2.5D Renderer**](http://github.gbvitrano.it/cs_pa_3d/);
 
 <a href="http://github.gbvitrano.it/vuln-sismica-pa/"><img width="1000" src="http://coseerobe.gbvitrano.it/wp/wp-content/uploads/2017/02/mappa_vuln_sism.jpg" Title="Esercizio - Vulnerabilità sismica degli edifici residenziali di Palermo" alt="Esercizio - Vulnerabilità sismica degli edifici residenziali di Palermo" /></a>
