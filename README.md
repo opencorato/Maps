@@ -6,7 +6,7 @@
 
 **Indice**
 
-<img width="1000" src="http://coseerobe.gbvitrano.it/wp/wp-content/uploads/2016/11/mappe_prg.jpg" Title="Zonizzazione e vincoli sul territorio della Città di Palermo" alt="Zonizzazione e vincoli sul territorio della Città di Palermo" />
+<a href="http://github.gbvitrano.it/prg_pa_2004/prg_2004.html"><img width="1000" src="http://coseerobe.gbvitrano.it/wp/wp-content/uploads/2016/11/mappe_prg.jpg" Title="Zonizzazione e vincoli sul territorio della Città di Palermo" alt="Zonizzazione e vincoli sul territorio della Città di Palermo" /></a>
 
 - [**Variante Generale al P.R.G. - Palermo - 2004 - Zonizzazione**](http://github.gbvitrano.it/prg_pa_2004/prg_2004.html)<br>
 Zonizzazione e vincoli sul territorio adeguati ai D. Dir 558 e 124/DRU/02 di approvazione - Luglio 2003 - Presa D'atto Delibera 7/2004;
@@ -19,6 +19,6 @@ La vulnerabilità sismica rappresenta una misura della maggiore o minore capacit
 - [**Mappa del pendolarismo da e per Palermo – Istat 2011**](http://github.gbvitrano.it/pendolarismo/);
 - [**Esplorare Palermo - Cartografica storica**](http://github.gbvitrano.it/carto_storica) e [**Cartografica storica con switch per cambio base mappa**](http://github.gbvitrano.it/carto_storica/carto_switch.html) con [@aborruso](https://twitter.com/aborruso), [@piersoft](https://twitter.com/Piersoft), [@cirospat](https://twitter.com/cirospat), [@napo](https://twitter.com/napo);
 
-<img width="1000" src="http://coseerobe.gbvitrano.it/wp/wp-content/uploads/2017/03/mappa_carto_pa.jpg?w=1024" Title="Palermo 2025 - Plamimetria schema di massima del PRG" alt="Palermo 2025 - Plamimetria schema di massima del PRG" />
+<a href="http://github.gbvitrano.it/prg_2025/prg_2015.html" target="_blank"><img width="1000" src="http://coseerobe.gbvitrano.it/wp/wp-content/uploads/2017/03/mappa_carto_pa.jpg?w=1024" Title="Palermo 2025 - Plamimetria schema di massima del PRG" alt="Palermo 2025 - Plamimetria schema di massima del PRG" /></a>
 
 - [**Palermo 2025 - Plamimetria schema di massima del PRG**](http://github.gbvitrano.it/prg_2025/prg_2015.html) con [@cirospat](https://twitter.com/cirospat); 
