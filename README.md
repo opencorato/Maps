@@ -3,7 +3,7 @@
 
 # Palermo - Mappe 3D e 2D
 
-[![web](https://img.shields.io/badge/coseerobe.it-online-%23ff0000.svg)](http://coseerobe.gbvitrano.it/)  [![github](https://img.shields.io/badge/github-gbvitrano-%23ff0000.svg)](https://github.com/gbvitrano/) 
+[![web](https://img.shields.io/badge/coseerobe.it-online-%23ff0000.svg)](http://coseerobe.gbvitrano.it/)  [![github](https://img.shields.io/badge/View%20on%20github-gbvitrano-%23ff0000.svg)](https://github.com/gbvitrano/) 
 
 **Indice**
 
