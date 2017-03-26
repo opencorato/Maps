@@ -5,6 +5,8 @@
 
 
 **Indice**
+<img width="1000" src="http://coseerobe.gbvitrano.it/wp/wp-content/uploads/2016/11/mappe_prg.jpg" Title="Zonizzazione e vincoli sul territorio della Città di Palermo" alt="Zonizzazione e vincoli sul territorio della Città di Palermo" />
+
 - [**Variante Generale al P.R.G. - Palermo - 2004 - Zonizzazione**](http://github.gbvitrano.it/prg_pa_2004/prg_2004.html)<br>
 Zonizzazione e vincoli sul territorio adeguati ai D. Dir 558 e 124/DRU/02 di approvazione - Luglio 2003 - Presa D'atto Delibera 7/2004;
 - [**Modello digitale del terreno**](http://github.gbvitrano.it/dem_palermo);
