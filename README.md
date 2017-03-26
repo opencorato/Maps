@@ -65,7 +65,7 @@ Fonte dati: [Comune di Palermo](http://www.comune.palermo.it/opendata_dld.php?id
 
 <hr>
 
-*Le informazioni visibili e condivise non comportano la visualizzazione di dati sensibili. Data la natura esclusivamente informativa dell'elaborato grafico e dei testi riportati, questi non costituiscono atti ufficiali. Per accedere agli atti ufficiali si rinvia agli elaborati definitivi allegati alle specifiche deliberazioni.*
+*Le informazioni visibili e condivise non comportano la visualizzazione di dati sensibili. Data la natura esclusivamente informativa delgli elaborati grafi e dei testi riportati, questi non costituiscono atti ufficiali.<br> Per accedere agli atti ufficiali si rinvia agli elaborati definitivi allegati alle specifiche deliberazioni.*
 
 **Si declina ogni responsabilità sulla veridicità dei dati.**
 
