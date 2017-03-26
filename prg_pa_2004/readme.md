@@ -7,12 +7,12 @@
 
 [**Mappa realizzata con Umap**](http://u.osmfr.org/m/75883/) che include anche i vincoli sul territorio. 
 
-[**Webgis - Zonizzazione e vincoli**](https://qgiscloud.com/gbvitrano/Prg_2004_Pa) realizzato con Qgis Cloud - Zonizzazione e Vincoli sul territorio di Palermo - Anno 2004
+[**Webgis - Zonizzazione e vincoli**](https://qgiscloud.com/gbvitrano/Prg_2004_Pa) realizzato con Qgis Cloud<br>Zonizzazione e Vincoli sul territorio di Palermo - Anno 2004<br>Fonte dati: [Comune di Palermo](http://www.comune.palermo.it/opendata_dld.php?id=320)
 
-Fonte dati: [Comune di Palermo](http://www.comune.palermo.it/opendata_dld.php?id=320)
+[**Webgis - PPE Centro Storico Palermo**](https://qgiscloud.com/gbvitrano/Ppe_Pa) realizzato con Qgis Cloud<br>Piano Particolareggiato Esecutivo (PPE) del centro stroico di Palermo - Anno 1993
 
-[**Webgis - PPE Centro Storico Palermo**](https://qgiscloud.com/gbvitrano/Ppe_Pa) realizzato con Qgis Cloud - Piano Particolareggiato Esecutivo (PPE) del centro stroico di Palermo - Anno 1993
+## Note
 
-Le informazioni visibili e condivise non comportano la visualizzazione di dati sensibili. Data la natura esclusivamente informativa dell'elaborato grafico e dei testi riportati, questi non costituiscono atti ufficiali. Per accedere agli atti ufficiali si rinvia agli elaborati definitivi allegati alle specifiche deliberazioni.
+*Le informazioni visibili e condivise non comportano la visualizzazione di dati sensibili.<br>Data la natura esclusivamente informativa degli elaborati grafi e dei testi riportati, questi non costituiscono atti ufficiali.<br>Per accedere agli atti ufficiali si rinvia agli elaborati definitivi allegati alle specifiche deliberazioni.* 
 
-Si declina ogni responsabilità sulla veridicità dei dati.
+**Si declina ogni responsabilità sulla veridicità dei dati.**
