@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/png" href="{{ "http://github.gbvitrano.it/images/favicon.png" | prepend: site.baseurl }}" >
+
 <link rel="shortcut icon" type="image/png" href="{{http://github.gbvitrano.it/images}}/favicon.png">
 <link rel="shortcut icon" href="http://github.gbvitrano.it/images/favicon.ico"/> 
 <link rel="icon" href="http://github.gbvitrano.it/images/favicon.png" type="image/png"/> 
