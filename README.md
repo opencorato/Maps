@@ -3,13 +3,12 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico"> 
 <link rel="shortcut icon" type="image/png" href="favicon.png">
 </head><body></body></html>
+[![web](https://img.shields.io/badge/coseerobe.it-online-%23ff0000.svg)](http://coseerobe.gbvitrano.it/) 
+[![github.gbvitrano.it](https://img.shields.io/badge/gbvitrano.github.io-github.gbvitrano.it-%23ff0000.svg)](http://github.gbvitrano.it/)
 
 <a href="http://coseerobe.gbvitrano.it/" target="_blank"><img width="1000" src="http://coseerobe.gbvitrano.it/wp/wp-content/uploads/2017/03/header_github.png" Title="coseerobe.gbvitrano.it" alt="coseerobe" /></a>
 
 # Palermo - Mappe 3D e 2D
-
-[![web](https://img.shields.io/badge/coseerobe.it-online-%23ff0000.svg)](http://coseerobe.gbvitrano.it/) 
-[![github.gbvitrano.it](https://img.shields.io/badge/gbvitrano.github.io-github.gbvitrano.it-%23ff0000.svg)](http://github.gbvitrano.it/)
 
 **Indice**
 
