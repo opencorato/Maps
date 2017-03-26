@@ -5,7 +5,7 @@
 
 [![wev](https://img.shields.io/badge/coseerobe.it-online-%23ff0000.svg)](http://coseerobe.gbvitrano.it/) 
 
-**Indice** - [**web - coseerobe.gbvitrano.it**](http://coseerobe.gbvitrano.it/)
+**Indice**
 
 <a href="http://github.gbvitrano.it/prg_pa_2004/prg_2004.html"><img width="1000" src="http://coseerobe.gbvitrano.it/wp/wp-content/uploads/2016/11/mappe_prg.jpg" Title="Zonizzazione e vincoli sul territorio della Città di Palermo" alt="Zonizzazione e vincoli sul territorio della Città di Palermo" /></a>
 
