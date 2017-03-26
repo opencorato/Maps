@@ -1,6 +1,4 @@
-<link rel="shortcut icon" type="image/x-icon" href="{{ site.baseurl }}/images/favicon.ico" >
-<link rel="shortcut icon" href="images/favicon.ico"/> 
-<link rel="icon" href="images/favicon.png" type="image/png"/>
+<link rel="shortcut icon" type="images/png" href="favicon.png">
 
 <a href="http://coseerobe.gbvitrano.it/" target="_blank"><img width="1000" src="http://coseerobe.gbvitrano.it/wp/wp-content/uploads/2017/03/header_github.png" Title="coseerobe.gbvitrano.it" alt="coseerobe" /></a>
 
