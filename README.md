@@ -11,9 +11,9 @@
 - [**Variante Generale al P.R.G. - Palermo - 2004 - Zonizzazione**](http://github.gbvitrano.it/prg_pa_2004/prg_2004.html)<br>
 Zonizzazione e vincoli sul territorio adeguati ai D. Dir 558 e 124/DRU/02 di approvazione - Luglio 2003 - Presa D'atto Delibera 7/2004;
 
-<a href="http://github.gbvitrano.it/dem_palermo"><img width="1000" src="http://coseerobe.gbvitrano.it/wp/wp-content/uploads/2017/03/mappa_dem_palermo.jpg" Title="Modello digitale del terreno" alt="Modello digitale del terreno" /></a>
+<a href="http://github.gbvitrano.it/dem_palermo"><img width="1000" src="http://coseerobe.gbvitrano.it/wp/wp-content/uploads/2017/03/mappa_dem_palermo.jpg" Title="Modello digitale del terreno ed estrazione delle curve di livello" alt="Modello digitale del terreno" /></a>
 
-- [**Modello digitale del terreno**](http://github.gbvitrano.it/dem_palermo);
+- [**Modello digitale del terreno ed estrazione delle curve di livello**](http://github.gbvitrano.it/dem_palermo);
 
 <a href="http://github.gbvitrano.it/dem_volumetrie_pa"><img width="1000" src="http://coseerobe.gbvitrano.it/wp/wp-content/uploads/2017/03/mappa_dem_volumetrie_pa.jpg" Title="Modello digitale del terreno e unità volumetriche" alt="Modello digitale del terreno e unità volumetriche;" /></a>
 
