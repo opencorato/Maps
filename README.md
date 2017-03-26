@@ -9,11 +9,11 @@
 
 <a href="http://coseerobe.gbvitrano.it/" target="_blank"><img width="1000" src="http://coseerobe.gbvitrano.it/wp/wp-content/uploads/2017/03/header_github.png" Title="coseerobe.gbvitrano.it - qui trovi tutte le altre mappe" alt="coseerobe" /></a>
 
-*"...per prima cosa, bisogna fare le robe, una prima fase è mettere a fuoco le cose da fare, poi c’è una seconda fase in cui si da un nome alle singole robe da fare, perché fare delle robe senza sapere di cosa stai parlando è stato sempre un problema!<br> La terza fase è più complessa!
+`*"...per prima cosa, bisogna fare le robe, una prima fase è mettere a fuoco le cose da fare, poi c’è una seconda fase in cui si da un nome alle singole robe da fare, perché fare delle robe senza sapere di cosa stai parlando è stato sempre un problema!<br> La terza fase è più complessa!
 Ma quando hai le robe giuste, è tutta un’altra cosa!...*"<br>
 
 *"...quando c’è voglia di fare le cose e le robe, è solo questione di prime e seconde fasi…
-Se siamo in tanti a fare cose sul territorio sono sicuro che ci viene bene… c’è chi fa più robe, c’è chi fa più cose, ma se queste cose e queste robe li mettiamo al servizio del Paese, avremo tanti territori pieni di cose e di robe che funzionano e la gente ne ha bisogno, ma attenzione a con confondere le cose con le robe, altrimenti si impazzisce!..."*
+Se siamo in tanti a fare cose sul territorio sono sicuro che ci viene bene… c’è chi fa più robe, c’è chi fa più cose, ma se queste cose e queste robe li mettiamo al servizio del Paese, avremo tanti territori pieni di cose e di robe che funzionano e la gente ne ha bisogno, ma attenzione a con confondere le cose con le robe, altrimenti si impazzisce!..."*`
 
 # Palermo - Mappe 3D e 2D
 
