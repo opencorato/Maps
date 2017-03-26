@@ -1,4 +1,4 @@
-<link rel="shortcut icon" type="image/png" href="{{site.url}}/favicon.png">
+<link rel="shortcut icon" type="image/png" href="{{site.url}}/images/favicon.png">
 <link rel="shortcut icon" href="http://github.gbvitrano.it/images/favicon.ico"/> 
 <link rel="icon" href="http://github.gbvitrano.it/images/favicon.png" type="image/png"/> 
 
