@@ -1,10 +1,14 @@
+<!doctype html>
 <html>
 <head>
 <meta charset="utf-8">
-<title>Mappe Palermo</title>
- <link rel="shortcut icon" type="image/x-icon" href="favicon.ico"> 
-<link rel="shortcut icon" type="image/png" href="favicon.png"> 
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico"> 
+<link rel="shortcut icon" type="image/png" href="favicon.png">
+<title>MAppe Palermo</title>
 </head>
+
+<body>
+</body>
 </html>
 
 <a href="http://coseerobe.gbvitrano.it/" target="_blank"><img width="1000" src="http://coseerobe.gbvitrano.it/wp/wp-content/uploads/2017/03/header_github.png" Title="coseerobe.gbvitrano.it" alt="coseerobe" /></a>
