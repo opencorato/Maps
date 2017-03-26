@@ -1,10 +1,9 @@
-<!doctype html>
+
 <html>
 <head>
 <meta charset="utf-8">
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico"> 
 <link rel="shortcut icon" type="image/png" href="favicon.png">
-<title>MAppe Palermo</title>
 </head>
 
 <body>
