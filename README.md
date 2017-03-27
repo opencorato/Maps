@@ -17,9 +17,6 @@ Se siamo in tanti a fare cose sul territorio sono sicuro che ci viene beneâ€¦ câ
 
 # Passion mapping...
 
-# Carta Tecnica di Palermo - OMIRA
-**Data:** 1935-1937 **scala:** 1:5000
-
 <a href="http://github.gbvitrano.it/carto_storica"><img width="1000" src="http://coseerobe.gbvitrano.it/mappe/images/mappa_carto_storica.jpg" Title="Carta Tecnica di Palermo - OMIRA - scala: 1:5000" alt="Carta Tecnica di Palermo - OMIRA" /></a>
 
 - [**Carta Tecnica di Palermo - OMIRA - scala: 1:5000**](http://github.gbvitrano.it/carto_storica) con [@aborruso](https://twitter.com/aborruso), [@piersoft](https://twitter.com/Piersoft), [@cirospat](https://twitter.com/cirospat), [@napo](https://twitter.com/napo);
