@@ -13,6 +13,6 @@ Servizio Documentazione - Unità Operativa X - Aerofototeca<br>
 **Stampa:**<br>
 Priulla, Palermo 2010 <br>
 
-[**Cartografia Stroica work in progress...**](http://github.gbvitrano.it/carto_test/)  a cura di [@aborruso](https://twitter.com/aborruso), [@piersoft](https://twitter.com/Piersoft), [@cirospat](https://twitter.com/cirospat), [@napo](https://twitter.com/napo), [@gbvitrano](https://twitter.com/gbvitrano);
+[**Carta Tecnica di Palermo - OMIRA - scala: 1:5000**](http://github.gbvitrano.it/carto_storica) con [@aborruso](https://twitter.com/aborruso), [@piersoft](https://twitter.com/Piersoft), [@cirospat](https://twitter.com/cirospat), [@napo](https://twitter.com/napo);
 
 *Un ringraziamento particolare va a [@napo](https://twitter.com/napo) che con il lavoro: [mappa di Trento 1915 - da un libro di Cesare Battisti](https://medium.com/@napo/mappa-di-trento-1915-da-un-libro-di-cesare-battisti-84935794b1ed#.w7hqdcsuv) ci ha fatto riscoprire la bellezza e l'importanza delle mappa storiche.*
