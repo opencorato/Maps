@@ -13,4 +13,4 @@ Servizio Documentazione - Unità Operativa X - Aerofototeca<br>
 **Stampa:**<br>
 Priulla, Palermo 2010 <br>
 
-[**Cartografia Stroica work in progress...**](http://github.gbvitrano.it/carto_test/)
+[**Cartografia Stroica work in progress...**](http://github.gbvitrano.it/carto_test/)  a cura di [@aborruso](https://twitter.com/aborruso), [@piersoft](https://twitter.com/Piersoft), [@cirospat](https://twitter.com/cirospat), [@napo](https://twitter.com/napo), [@gbvitrano](https://twitter.com/gbvitrano);
