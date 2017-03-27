@@ -1,5 +1,5 @@
 # Palermo - CARTA TECNICA DI PALERMO (OMIRA )
-**Data:** 1935-1937 **scala:** 1:5000
+**Data:** 1935-1937 **scala:** 1:5000 <br>
 **work in progress...**
 
 <a href="http://github.gbvitrano.it/carto_test"><img width="1000" src="http://coseerobe.gbvitrano.it/mappe/images/mappa_carto_storica.jpg" Title="Esplorare Palermo - Cartografica storica" alt="Cartografia Storica Palermo" /></a>
