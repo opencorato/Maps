@@ -1,5 +1,3 @@
-[**Cartografia Stroica work in progress...**](http://github.gbvitrano.it/carto_test/)
-
 # CARTA TECNICA DI PALERMO (OMIRA )
 **Data:**1935-1937 **scala:** 1:5000
 
@@ -12,3 +10,5 @@ REPERTORIO CARTOGRAFICO E AEROFOTOGRAFICO<br>
 Servizio Documentazione - Unità Operativa X - Aerofototeca<br>
 **Stampa:**<br>
 Priulla, Palermo 2010 <br>
+
+[**Cartografia Stroica work in progress...**](http://github.gbvitrano.it/carto_test/)
