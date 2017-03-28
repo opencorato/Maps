@@ -1,7 +1,7 @@
 # Palermo - CARTA TECNICA DI PALERMO (OMIRA )
 **Data:** 1935-1937 **scala:** 1:5000
 
-<a href="http://github.gbvitrano.it/carto_storica/carto_switch.html"><img width="1000" src="http://coseerobe.gbvitrano.it/mappe/images/mappa_carto_omira.jpg" Title="Esplorare Palermo - Cartografica storica" alt="Cartografia Storica Palermo" /></a>
+<a href="http://github.gbvitrano.it/carto_storica/carto_switch.html"><img width="1000" src="http://coseerobe.gbvitrano.it/mappe/images/carto_omira.jpg" Title="Esplorare Palermo - Cartografica storica" alt="Cartografia Storica Palermo" /></a>
 
 Supporto e tecnica di riproduzione: digitale numero fogli: 17<br>
 **Descrizione:** cartografia realizzata col metodo aerofotogrammetrico “Nistri” dallaSoc. An. Ottico Meccanica Italiana e Rilevamenti Aerofotogrammetrici (O.M.I.R.A.) diRoma; committente è il Comune di Palermo che detiene le tavole originali a colori. L’orografia è rappresentata mediante curvedi livello (equidistanza m 5) e punti quotati. Il sistema cartesiano di riferimento è di tipo locale ed ha come origine il punto trigono-metrico di 2° ordine “La Martorana” dipiazza Bellini.
