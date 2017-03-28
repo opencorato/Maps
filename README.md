@@ -18,9 +18,9 @@ Se siamo in tanti a fare cose sul territorio sono sicuro che ci viene bene… c�
 # Passion mapping...
 
 
-<a href="http://github.gbvitrano.it/carto_storica"><img width="1000" src="http://coseerobe.gbvitrano.it/mappe/images/mappa_carto_storica.jpg" Title="Carta Tecnica di Palermo - OMIRA - scala: 1:5000" alt="Carta Tecnica di Palermo - OMIRA" /></a>
+<a href="http://github.gbvitrano.it/carto_omira"><img width="1000" src="http://coseerobe.gbvitrano.it/mappe/images/mappa_carto_storica.jpg" Title="Carta Tecnica di Palermo - OMIRA - scala: 1:5000" alt="Carta Tecnica di Palermo - OMIRA" /></a>
 
-- [**Carta Tecnica di Palermo - OMIRA - scala: 1:5000**](http://github.gbvitrano.it/carto_storica) con [@aborruso](https://twitter.com/aborruso), [@piersoft](https://twitter.com/Piersoft), [@cirospat](https://twitter.com/cirospat), [@napo](https://twitter.com/napo);
+- [**Carta Tecnica di Palermo - OMIRA - scala: 1:5000**](http://github.gbvitrano.it/carto_omira) con [@aborruso](https://twitter.com/aborruso), [@piersoft](https://twitter.com/Piersoft), [@cirospat](https://twitter.com/cirospat), [@napo](https://twitter.com/napo);
 
 <a href="http://github.gbvitrano.it/spesa_conuni_mobilit%C3%A0/"><img width="1000" src="http://coseerobe.gbvitrano.it/mappe/images/mappa_sicilia_spesa_mobilit%C3%A0_01.jpg" Title="Comuni Siciliani- spesa per la mobilità - anno 2014" alt="Comuni Siciliani- spesa per la mobilità" /></a>
 
