@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Palermo cartografia storica</title>
+  <meta charset="utf-8" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+  <meta property="og:image" content="http://siciliahub.github.io/mappe/14centimetri/imgs/share.jpg" />
+  <meta property="og:title" content="Open Data Sicilia - Le Ortofoto a risoluzione di 14 cm. del SITR della Regione Siciliana" />
+  <meta property="og:url" content="http://siciliahub.github.io/mappe/14centimetri" />
+  
+  <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+  <link href="css/leaflet.css" rel="stylesheet" type="text/css">
+    <link href="css/leaflet.css" rel="stylesheet" type="text/css">
+   <link href="css/leaflet-sidebar.css" rel="stylesheet" type="text/css">
+<link href="css/gmaps-sidebar.css" rel="stylesheet" type="text/css">
+   <!--[if lte IE 8]><link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.ie.css" /><![endif]-->
+
+<!-- <script src="https://unpkg.com/leaflet@1.0.1/dist/leaflet.js"></script>-->
+<script type="text/javascript" src="lib/sidebar/leaflet-sidebar.js"></script>
+ <!-- <script type="text/javascript" src="lib/leaflet-tileoverlay-mask.js"></script>-->
+<script src="lib/hash/leaflet-hash.js"></script>
+<script type="text/javascript" src="lib/leaflet_sider@1.js"></script>
+
+
+<script type="text/javascript" src="lib/leaflet_overlay.js"></script>
+<!-- 		<script src="http://joker-x.github.io/Leaflet.geoCSV/lib/leaflet.js"></script> -->
+      <script src="http://frogcat.github.io/leaflet-tilelayer-mask/leaflet-tilelayer-mask.js"></script>
+      
+   <script src="http://joker-x.github.io/Leaflet.geoCSV/lib/jquery.js"></script> 
+  <style>
+  body {
+    padding: 0;
+    margin: 0; }
+  html, body{
+    height: 100%;
+    font: 10pt "Helvetica Neue", Arial, Helvetica, sans-serif;  }
+  #map {
+    height: 100%;
+    font: 10pt "Helvetica Neue", Arial, Helvetica, sans-serif;
+    background-color: #E4E5E5;  }
+#ods { position:fixed;
+bottom:20px;
+right:20px;
+z-index: 999;}
+  .lorem {
+	font-style: italic;
+	color: #AAA;
+	text-align: justify;
+        }
+  </style>
+
+</head>
+<body>
+
+  <div id="sidebar" class="sidebar collapsed">
+    <!-- Nav tabs -->
+    <ul class="sidebar-tabs" role="tablist">
+      <li><a href="#home" role="tab"><i class="fa fa-bars"></i></a></li>
+      <li> <a href="mailto:blabla@blabla.com" title="Email" role="tab"><i class="fa fa-envelope"></i></a></li>
+      <li><a href="https://github.com/SiciliaHub/mappe" title="SiciliaHub/mappe" target="_blank"  role="tab"><i class="fa fa-github"></i></a></li>
+       <li><a href="#info"  title="Strumenti"role="tab"><i class="fa fa-info"></i></a></li>
+       <li><a href="#tools" title="Strumenti" role="tab"><i class="fa fa-wrench"></i></a></li>
+       
+      
+         </ul>
+
+    <!-- Tab panes -->
+    <div class="sidebar-content active">
+      <div class="sidebar-pane" id="home">
+        <h2>Cartografia storica Palermo</h2>
+        <p>A responsive sidebar for mapping libraries like <a href="http://leafletjs.com/">Leaflet</a> or <a href="http://openlayers.org/" target="_blank">OpenLayers</a>.</p>
+
+                <p class="lorem">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+
+                <p class="lorem">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+
+        <p class="lorem">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+
+      </div>
+      <div class="sidebar-pane" id="info">
+        <h2>Informazioni</h2>
+ <p class="lorem">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+
+                <p class="lorem">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+
+        <p class="lorem">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+        <p>Realizzato da <a href="http://twitter.com/aborruso" target="_blank">Andrea Borruso</a> per <strong><a href="http://opendatasicilia.it/" target="_blank">Open Data Sicilia</a></strong>.</p>
+      </div>
+      <div class="sidebar-pane" id="tools">
+        <h2>Strumenti</h2>
+        <p>I principali strumenti usati per realizzare questa semplice mappa:</p>
+        <ul>
+          <li><a href="http://leafletjs.com/" target="_blank">Leaflet,</a> per creare l'interfaccia di web mapping;</li>
+          <li><a href="https://github.com/mlevans/leaflet-hash" target="_blank">Leaflet-hash</a>, per generare URL che contengono livello di zoom e posizione corrente;</li>
+           <li><a href="https://github.com/frogcat/leaflet-tileoverlay-mask" target="_blank">Leaflet-tileoverlay-mask
+</a>, per la sovrapposizione delle tile con effetto svg maschera;</li> 
+          <li><a href="https://github.com/turbo87/sidebar-v2/" target="_blank">Sidebar-v2</a>, per creare questa sidebar a scomparsa.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div id="map" class="sidebar-map"></div>
+  <!-- carto Storica -->
+<script type="text/JavaScript">
+        var southWest = L.latLng(38.098969492479725, 13.41679573059082),
+            northEast = L.latLng(38.13779704369437, 13.310022354125977),
+    	      bounds = L.latLngBounds(southWest, northEast);
+
+
+        var map = L.map('map', {attributionControl:true}).setView([38.11127,13.3534422], 14 );
+
+        var basemap0 = L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors,<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>',
+minZoom: 13,
+      maxZoom: 17,
+      maxNativeZoom: 17
+        });
+        basemap0.addTo(map);
+        var basemap1 = L.tileLayer.wms("http://213.215.135.196/reflector/open/service?", {
+                layers: 'rv1',
+                format: 'image/jpeg',attribution: '<a href="http://www.realvista.it/website/Joomla/" target="_blank">RealVista &copy; CC-BY Tiles</a> | <a href="http://openstreetmap.org">OpenStreetMap</a>',
+
+              });
+
+			       var basemap2 = L.tileLayer.mask("http://mapwarper.net/maps/tile/19706/{z}/{x}/{y}.png", {
+      attribution: '<a href="https://github.com/frogcat/leaflet-tileoverlay-mask" title="Leaflet-tileoverlay-mask">Leaflet-tileoverlay-mask</a> - Cartografia storica Palermo - Rielaborazione di <a href="https://twitter.com/aborruso" title="Andrea Borruso">@aborruso</a>, <a href="https://twitter.com/cirospat" title="Ciro Spataro">@cirospat</a>, <a href="https://twitter.com/napo " title="Maurizio Napolitano">@napo</a> <a href=" https://twitter.com/Piersoft" title="Francesco Piero Paolicelli">@piersoft</a> e <a href="https://twitter.com/gbvitrano" title="Giovan Battista Vitrano">@gbvitrano</a>',
+	  minZoom: 13,
+      maxZoom: 17,
+      maxNativeZoom: 17
+        });
+        basemap2.addTo(map);
+
+        var overlays = {
+          };
+         var layerControl = new L.Control.Layers({'OSM': basemap0,'RealVista': basemap1},overlays,{collapsed: false},{position:'topright'});
+         layerControl.addTo(map);
+         map.on("mousemove", function(e) {
+           basemap2.setCenter(e.containerPoint.x, e.containerPoint.y);
+         }).zoomControl.setPosition("topleft");
+
+	        var hash = new L.Hash(map);
+        var sidebar = L.control.sidebar('sidebar').addTo(map);
+ 
+  </script> 
+<div id="ods"><a href="http://opendatasicilia.it/" title="opendatasicilia.it" target="_blank"> 
+<img src="lib/images/opendatasicilia.png" width="48" title="opendatasicilia.it" alt="opendatasicilia"></a></div>
+</body>
+</html>
