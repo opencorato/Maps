@@ -18,7 +18,7 @@ Se siamo in tanti a fare cose sul territorio sono sicuro che ci viene beneâ€¦ câ
 # Passion mapping...
 
 
-<a href="http://github.gbvitrano.it/carto_omira"><img width="1000" src="http://coseerobe.gbvitrano.it/mappe/images/carto_omira.jpgg" Title="Carta Tecnica di Palermo - OMIRA - scala: 1:5000" alt="Carta Tecnica di Palermo - OMIRA" /></a>
+<a href="http://github.gbvitrano.it/carto_omira"><img width="1000" src="http://coseerobe.gbvitrano.it/mappe/images/carto_omira.jpg" Title="Carta Tecnica di Palermo - OMIRA - scala: 1:5000" alt="Carta Tecnica di Palermo - OMIRA" /></a>
 
 - [**Carta Tecnica di Palermo - OMIRA - scala: 1:5000**](http://github.gbvitrano.it/carto_omira) con [@aborruso](https://twitter.com/aborruso), [@piersoft](https://twitter.com/Piersoft), [@cirospat](https://twitter.com/cirospat), [@napo](https://twitter.com/napo);
 
